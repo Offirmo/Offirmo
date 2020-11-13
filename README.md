@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![my github stats](https://github-readme-stats.vercel.app/api?username=Offirmo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Languages
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -11,8 +14,8 @@ Languages
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 
 Frameworks
-<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
 
 Tools
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -23,8 +26,8 @@ Tools
 
 
 Social
-<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Offirmo%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Offirmo%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 
 
@@ -43,4 +46,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/Ileriayo/markdown-badges
+https://github.com/Naereen/badges
 -->
