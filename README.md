@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 
 https://github.com/Ileriayo/markdown-badges
 https://github.com/Naereen/badges
+https://github.com/anuraghazra/github-readme-stats
 -->
